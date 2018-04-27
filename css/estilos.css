@@ -1,0 +1,52 @@
+.logo1{
+	width: 100%;
+	height: auto;
+}
+.social-media{
+	width: 50%;
+	height: auto;
+}
+.places{
+	width: 100%;
+	height: auto;
+}
+.logo-brand{
+	padding-left: 15px;
+	padding-top: 7px;
+}
+body{
+	background-image: url(../img/2.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	overflow: scroll;
+}
+.card-panel{
+	background: rgba(0,0,0,.2); 
+ }
+nav{
+	background-color: rgba(0,0,0,.2);
+}
+#slogan{
+	padding-top: 165px;
+}
+.pescaito-img{
+	width: 200px;
+	height:600px ;
+}
+.text-justify{
+	text-align: justify;
+}
+.autor-card{
+	margin-top: 18px;
+}
+
+.autor-title{
+	padding-left: 20px;
+	padding-top: 10px;
+}
+.autor2-title{
+	padding-left: 20px;
+}
+.card-comentarios{
+	background-color: ;
+}
